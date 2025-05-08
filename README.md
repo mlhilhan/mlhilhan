@@ -1,3 +1,8 @@
+<p align="right">
+🇹🇷 [Türkçe](#merhaba-ben-melih-ilhan) | 🇬🇧 [English](#hi-im-melih-ilhan)
+</p>
+
+
 # 👋 Merhaba, ben Melih İlhan
 
 🎓 Bilgisayar Mühendisiyim | 💻 Full Stack Developer  
