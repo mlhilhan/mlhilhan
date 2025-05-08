@@ -1,22 +1,31 @@
 # 👋 Merhaba, ben Melih İlhan
 
 🎓 Bilgisayar Mühendisiyim | 💻 Full Stack Developer  
-.NET Core, ReactJS ve OracleDB teknolojileriyle hastane yazılımları geliştirdim.  
-Mobil geliştirme alanında da React Native ile deneyim kazandım.  
+.NET Core, ReactJS ve OracleDB teknolojileriyle projeler geliştirdim.  
+Mobil uygulama geliştirme konusunda React Native ile deneyimim var.  
 
-🔍 Yeni fırsatlara açığım — dinamik ve üretken bir ekibe katkı sunmak için hazırım.
+🔍 Yeni fırsatlara açığım — dinamik ve üretken ekiplerle çalışmayı hedefliyorum.
 
 ---
 
 ## 🛠️ Kullandığım Teknolojiler
 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+
+---
+
+## 📊 GitHub İstatistikleri
+
+![Melih'in GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=mlhilhan&show_icons=true&theme=default)
+![Toplam Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=mlhilhan&layout=compact&theme=default)
 
 ---
 
@@ -27,7 +36,7 @@ Mobil geliştirme alanında da React Native ile deneyim kazandım.
   Yazılım uzmanlığına Ocak 2024’te terfi ettim.
 
 - **Digiturk A.Ş.** (08.2021 - 08.2022)  
-  .NET Core + React tabanlı iç yazılım dönüşüm projesinde görev aldım.
+  Şirket içi bir uygulamanın dönüşüm projesinde .NET Core ve React ile çalıştım.
 
 - **İnomera (Karaca Mobil Uygulaması)** (09.2020 - 06.2021)  
   React Native ile mobil geliştirme tarafında çalıştım.
@@ -36,15 +45,15 @@ Mobil geliştirme alanında da React Native ile deneyim kazandım.
 
 ## 🎯 Hedefim
 
-Yeni teknolojiler öğrenmeye istekliyim. Sağlık, eğitim ve sosyal etki yaratan projelerde yazılım geliştiricisi olarak katkı sunmak istiyorum.
+Yazılım geliştirme alanında hem teknik hem kişisel becerilerimi sürekli geliştirerek, modern teknolojileri kullanan projelerde etkin bir rol almayı hedefliyorum. Takım çalışmasına yatkın, yeniliklere açık ve çözüm odaklı bir bakış açısıyla katkı sunmaya hazırım.
 
 ---
 
 ## ✍️ İlgi Alanlarım
 
-🎥 Sinema & 📖 Edebiyat tutkunu bir yazılım geliştiriciyim.  
-⚽ Futbol izlemeyi ve oynamayı severim.  
-📚 Amatörce kısa hikayeler yazarım.
+🎥 Sinema ve 📖 edebiyatla ilgileniyorum.  
+⚽ Futbol izlemekten ve oynamaktan keyif alırım.  
+📚 Kısa hikayeler yazmak benim için bir tutku.
 
 ---
 
