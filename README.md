@@ -1,6 +1,8 @@
+> 🇬🇧 Looking for the English version? [Click here](./README.en.md)
+
 # 👋 Merhaba, ben Melih İlhan
 
-🎓 Bilgisayar Mühendisiyim | 💻 Full Stack Developer  
+🎓 Bilgisayar Mühendisi | 💻 Full Stack Developer  
 .NET Core, ReactJS ve OracleDB teknolojileriyle projeler geliştirdim.  
 Mobil uygulama geliştirme konusunda React Native ile deneyimim var.  
 
