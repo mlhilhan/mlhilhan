@@ -30,7 +30,7 @@ Mobil uygulama geliştirme konusunda React Native ile deneyimim var.
 - **Digiturk A.Ş.** (08.2021 - 08.2022)  
   Şirket içi bir uygulamanın dönüşüm projesinde .NET Core ve React ile çalıştım.
 
-- **İnomera (Karaca Mobil Uygulaması)** (09.2020 - 06.2021)  
+- **İnomera A.Ş.** (09.2020 - 06.2021)  
   React Native ile mobil geliştirme tarafında çalıştım.
 
 ---
