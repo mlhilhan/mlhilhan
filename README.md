@@ -4,7 +4,7 @@
 .NET Core, ReactJS ve OracleDB teknolojileriyle projeler geliştirdim.  
 Mobil uygulama geliştirme konusunda React Native ile deneyimim var.  
 
-🔍 Yeni fırsatlara açığım — dinamik ve üretken ekiplerle çalışmayı hedefliyorum.
+🔍 Dinamik ve üretken ekiplerle çalışmayı hedefliyorum.
 
 ---
 
