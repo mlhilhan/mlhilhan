@@ -1,6 +1,7 @@
 <p align="right">
-🇹🇷 [Türkçe](#-merhaba-ben-melih-ilhan) | 🇬🇧 [English](#-hi-im-melih-ilhan)
+🇹🇷 [Türkçe](#merhaba-ben-melih-ilhan) | 🇬🇧 [English](#hi-im-melih-ilhan)
 </p>
+
 
 ---
 
